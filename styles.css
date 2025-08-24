@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(235, 228, 228);
+    line-height: 1.6;
+}
+header {
+    background-color: violet;
+    color: white;
+    padding: 5px 0;
+    text-align: center;
+}
+.main-section {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3, h4 {
+    color: #920b6a;
+}
+p {
+    margin-bottom: 15px;
+}
+#def {
+    font-style: italic;
+}
+#def-con {
+    font-style: italic;
+    color: rgb(247, 138, 156);
+    font-weight: bold;
+
+}
+#con {
+    font-style: italic;
+    font-weight: bold;
+}
+ol {
+    margin-left: 20px;
+}
+.biblical-ref {
+    padding: 5px;
+    margin: 20px;
+    border: 3px solid #000;
+    border-radius: 30px;
+    background-color: rgb(245, 159, 192);
+    
+}
+#bib-ref {
+    margin-left: 20px;
+    font-style: italic;
+    font-family: poppins, sans-serif;
+}
+#ff{
+    text-align: center;
+}
+
+    
